@@ -1,0 +1,10 @@
+{
+  "name": "StoryNest",
+  "description": "AI reading companion for ages 8-12 building reading comprehension through interactive storytelling, vocabulary scaffolding, structural story maps, sequenced inference, and pacing monitoring.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
